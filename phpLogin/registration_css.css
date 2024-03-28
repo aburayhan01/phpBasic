@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+    
+    body{
+    
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #fff;
+    background: rgb(85, 82, 92);
+    margin: 26px 0;
+    padding: 10px 18px;
+    display: inline-block;
+    }
+    
